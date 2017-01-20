@@ -65,5 +65,5 @@ target/
 .ipynb_checkpoints
 
 # pickle files
-.dict
-.pkl
+*.dict
+*.pkl
