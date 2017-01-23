@@ -85,13 +85,6 @@ sudo -H pip install pandas scikit-learn
 
 sudo -H pip install seaborn
 
-sudo -H pip install pygame
-```
-
-#### Install matplotlib Toolkits:
-
-```sh
-sudo apt-get install python-mpltoolkits.basemap
 ```
 
 #### Using Jupyter Notebook
