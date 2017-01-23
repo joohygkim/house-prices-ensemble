@@ -5,7 +5,7 @@
 German Rezzonico
 
 ### Abstract
-An ensemble averaging model, based on real estate data, will be used to make predictions about a home’s monetary value. After an exhaustive features engineering, multiple machine learning regression algorithms will be trained and tuned, to obtain a better predictive performance. A model like the one described, could be invaluable for someone like a real estate agent or for one of the many companies operating in the multi billion dollar real estate industry.
+An ensemble averaging model, based on real estate data, will be used to make predictions about a house’s monetary value. After an exhaustive features engineering, multiple machine learning regression algorithms will be trained and tuned, to obtain a better predictive performance. A model like the one described, could be invaluable for someone like a real estate agent or for one of the many companies operating in the multi billion dollar real estate industry.
 
 ### Keywords
 Python, regression techniques, feature engineering, grid search, ensemble
